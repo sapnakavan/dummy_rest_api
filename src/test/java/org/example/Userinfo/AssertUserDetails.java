@@ -22,6 +22,7 @@ public class AssertUserDetails {
     }
 
     //1. total records are 24
+
     //2. data[23].id = 24
     //3. data[23].employee_name = “Doris Wilder”
     //4. message = “Successfully! All records has been fetched.”
